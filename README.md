@@ -1,4 +1,4 @@
-# Ravi Kumar — Portfolio
+# Minakshi Kumari — Portfolio
 
 Built with **Vite + React + Tailwind CSS + lucide-react**.
 
